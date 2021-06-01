@@ -1,6 +1,5 @@
 ## Welcome to        
-<meta http-equiv="refresh" content="0; url=https://junjun280.wixsite.com/website">
-<meta name="baidu-site-verification" content="code-3kmbDejX0p" />
+<meta http-equiv="refresh" content="0; url=https://junjun280.wixsite.com/website
 
 You can use the [editor on GitHub](https://github.com/Junjun280/Junjun280.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
