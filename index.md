@@ -1,4 +1,4 @@
-## Welcome to      
+## 欢迎来到Junjun跳转网页  
 <meta http-equiv="refresh" content="0; url=https://junjun280.wixsite.com/website">
 
 You can use the [editor on GitHub](https://github.com/Junjun280/Junjun280.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
